@@ -2,7 +2,6 @@
 require 'nn'
 require 'nngraph'
 require 'optim'
-require 'gnuplot'
 local mnist = require 'mnist'
 local disp = require 'display'
 
